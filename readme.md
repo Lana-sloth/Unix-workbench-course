@@ -25,4 +25,4 @@ of code
 
 Here is how you make [a link](https://www.wikipedia.org/).
 
-![This is an image.](https://www.google.com/search?q=anime+cat&newwindow=1&safe=off&rlz=1C5CHFA_enRU825RU826&tbm=isch&source=iu&ictx=1&fir=umVcP9Ftr-uZ3M%253A%252CDDBnabVVO3XkeM%252C_&vet=1&usg=AI4_-kQ1O4YPPc9A7Lz1P03qi3Vww2LQPQ&sa=X&ved=2ahUKEwjopbLe46HhAhXMlYsKHWGvCckQ9QEwBXoECAYQDg#imgdii=AFJpDmS9C9oHOM:&imgrc=umVcP9Ftr-uZ3M:&vet=1)
+![This is an image.](http://2.bp.blogspot.com/-d6KcV7N87RI/VkJmtl7AIsI/AAAAAAAAAQc/1a3YXmpXkkg/s1600/neko___chi___by_neko_complz-d5jy2mq.gif)
